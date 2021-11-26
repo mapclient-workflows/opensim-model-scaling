@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except the following:
+!.gitignore
+!.map-client-workflow.rdf
+!TRC_Source.conf
+!frame_selector.conf
+!geom_cust.conf
+!llgen1.conf
+!musc_cust.conf
+!README.rst
