@@ -4,6 +4,7 @@
 # Except the following:
 !.gitignore
 !.map-client-workflow.rdf
+!map-client-workflow.proj
 !TRC_Source.conf
 !frame_selector.conf
 !geom_cust.conf
